@@ -1,0 +1,23 @@
+## ⚠️ Identified Phishing Indicators
+
+| Indicator | Description |
+|----------|-------------|
+| *1. Spoofed sender email* | paypalsecure-verification.com is not an official PayPal domain |
+| *2. Urgency language* | "Immediate Action Required", "within 24 hours" |
+| *3. Suspicious URL* | Fake link: http://paypal-login-confirm.com |
+| *4. Generic greeting* | Says "Dear User" instead of your real name |
+| *5. Impersonation* | Pretends to be PayPal but uses wrong domain and layout |
+
+---
+
+## 🧪 Tools You Would Use (If Real Email)
+
+- [MxToolbox Email Header Analyzer](https://mxtoolbox.com/EmailHeaders.aspx)
+- Gmail spam filter (optional)
+- Link hover-check in browser
+
+-
+
+## ✅ Conclusion
+
+This is a clear phishing attempt using spoofing, urgent language, and fake branding. Users should *not click* any links or provide personal information.
